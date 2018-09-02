@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-02T10:27:53Z" name="Testing Basic browser login" finished-at="2018-09-02T10:27:57Z" duration-ms="4341">
+    <groups>
+    </groups>
+    <test started-at="2018-09-02T10:27:53Z" name="Testing" finished-at="2018-09-02T10:27:57Z" duration-ms="4341">
+      <class name="Testing_Ankita.DemoMavenProject1.Test_Maven">
+        <test-method signature="openbrowser()[pri:0, instance:Testing_Ankita.DemoMavenProject1.Test_Maven@2dc54ad4]" started-at="2018-09-02T10:27:53Z" name="openbrowser" finished-at="2018-09-02T10:27:57Z" duration-ms="4310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+      </class> <!-- Testing_Ankita.DemoMavenProject1.Test_Maven -->
+    </test> <!-- Testing -->
+  </suite> <!-- Testing Basic browser login -->
+</testng-results>

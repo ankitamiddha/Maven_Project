@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testing Basic browser login]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="extentreportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Testing(failed)">
+    <classes>
+      <class name="Testing_Ankita.DemoMavenProject1.Test_Maven">
+        <methods>
+          <include name="openbrowser"/>
+        </methods>
+      </class> <!-- Testing_Ankita.DemoMavenProject1.Test_Maven -->
+    </classes>
+  </test> <!-- Testing(failed) -->
+</suite> <!-- Failed suite [Testing Basic browser login] -->
