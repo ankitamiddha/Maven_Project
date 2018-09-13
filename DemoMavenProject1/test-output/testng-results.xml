@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-09-02T10:27:53Z" name="Testing Basic browser login" finished-at="2018-09-02T10:27:57Z" duration-ms="4341">
+  <suite started-at="2018-09-12T06:37:44Z" name="Default suite" finished-at="2018-09-12T06:37:51Z" duration-ms="7667">
     <groups>
     </groups>
-    <test started-at="2018-09-02T10:27:53Z" name="Testing" finished-at="2018-09-02T10:27:57Z" duration-ms="4341">
+    <test started-at="2018-09-12T06:37:44Z" name="Default test" finished-at="2018-09-12T06:37:51Z" duration-ms="7667">
       <class name="Testing_Ankita.DemoMavenProject1.Test_Maven">
-        <test-method signature="openbrowser()[pri:0, instance:Testing_Ankita.DemoMavenProject1.Test_Maven@2dc54ad4]" started-at="2018-09-02T10:27:53Z" name="openbrowser" finished-at="2018-09-02T10:27:57Z" duration-ms="4310" status="PASS">
+        <test-method signature="openbrowser()[pri:0, instance:Testing_Ankita.DemoMavenProject1.Test_Maven@7d4f9aae]" started-at="2018-09-12T06:37:44Z" name="openbrowser" finished-at="2018-09-12T06:37:51Z" duration-ms="7639" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
       </class> <!-- Testing_Ankita.DemoMavenProject1.Test_Maven -->
-    </test> <!-- Testing -->
-  </suite> <!-- Testing Basic browser login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
